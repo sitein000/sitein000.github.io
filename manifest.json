@@ -1,0 +1,7 @@
+{
+  "name": "News 24",
+  "short_name": "News 24",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "fullscreen"
+}
